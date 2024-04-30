@@ -3,3 +3,9 @@
 | Device       |              Download Link   | Build Date 
 |--------------|------------------------------|-------------
 | Moto G51 5G ( Latest build )| [**project_Matrix-14.0-XXXX-cypfq-v10.4.3.zip**](https://sourceforge.net/projects/moto-devices/files/) | 27/April/24|
+
+### LineageOS Android 14.0 for Motorola Phones ( Build Vanilla )
+
+| Device       |              Download Link   | Build Date 
+|--------------|------------------------------|-------------
+| Moto G51 5G ( Latest build )| [**LineageOS_XXXX_cypfq.zip**](https://sourceforge.net/projects/moto-devices/files/) | XX/XX/24|
