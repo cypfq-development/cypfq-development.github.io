@@ -9,3 +9,12 @@
 | Device       |              Download Link   | Build Date 
 |--------------|------------------------------|-------------
 | Moto G51 5G ( Latest build )| [**LineageOS_XXXX_cypfq.zip**](https://sourceforge.net/projects/moto-devices/files/) | XX/XX/24|
+
+#### Do you like my work? Please Show your support by donating via PayPal ❤️
+
+#### My Paypal email id - https://www.paypal.me/zero2911
+
+#### My Telegram username - @Sozosha
+
+#### My build is done with my free time so I won't always be on the lookout. If you find any errors, take logs and send it to me. It would be a great help to improve my roms and your experience.
+#### Thank you 🙂
