@@ -2,13 +2,19 @@
 
 | Device       |              Download Link   | Build Date 
 |--------------|------------------------------|-------------
-| Moto G51 5G ( Latest build )| [**project_Matrix-14.0-XXXX-cypfq-v10.4.3.zip**](https://sourceforge.net/projects/moto-devices/files/) | 27/April/24|
+| Moto G51 5G ( Latest build )| [**Matrixx-v10.4.3-Unofficial-cypfq-Vanilla-20240502.zip**](https://sourceforge.net/projects/moto-devices/files/Cypfq/Matrixx-v10.4.3-Unofficial-cypfq-Vanilla-20240502.zip/download) | 01/May/24|
 
 ### LineageOS Android 14.0 for Motorola Phones ( Build Vanilla )
 
 | Device       |              Download Link   | Build Date 
 |--------------|------------------------------|-------------
 | Moto G51 5G ( Latest build )| [**LineageOS_XXXX_cypfq.zip**](https://sourceforge.net/projects/moto-devices/files/) | XX/XX/24|
+
+### Google Apps for custom roms
+
+| Owner       |              Download link                      |  Android version  |
+|--------------|-------------------------------------------------|-----------------------|
+| MindTheGApps | [**NikGapps-core-arm64-14-20240420-signed.zip**](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/20-Apr-2024/NikGapps-core-arm64-14-20240420-signed.zip/download) | 14.0 |
 
 #### Do you like my work? Please Show your support by donating via PayPal ❤️
 
